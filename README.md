@@ -5,5 +5,5 @@
 - Interactive user interface
 
 ## Demo
+[Click here to watch the demo video on YouTube]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=T5_SKHtl7wc))
 
-[![Self Playing Piano Demo]]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=T5_SKHtl7wc)https://www.youtube.com/watch?v=T5_SKHtl7wc)
